@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		p{
+			width: 60%;
+			height: 16px;
+			margin-left: 27%;
+			margin-top: 270px;
+		}
+		form{
+			width: 60%;
+			margin-left: 15%;
+			font-size: 18px;
+			font-weight: bold;
+			color: #FFE147;
+		}
+		input[type="text"],input[type="password"]{
+			border: 1px solid black;
+			width: 280px;
+		}
+		input[type="submit"]{
+			margin-left: 180px;
+		}
+		
+		body{
+			background: url("images/login-bg.jpg") no-repeat;
+			background-size: 100% auto;
+		}
+		
+	</style>
+</head>
+<body>
+	<p style="color:red;font-size:14px;"></p>
+
+	<form onsubmit="return loginCheck();" action="" method="post" id="login" autocomplete="on">
+		<label for="user">用户账号：</label>
+		<input type="text" id="user" name="user" required>
+		<span style="color:red;font-size:14px;margin-left:10px;"></span>
+		<br><br>
+
+		<label for="password">登录密码：</label>
+		<input type="password" id="password" name="password" required>
+		<span style="color:red;font-size:14px;margin-left:10px;"></span>
+		<br><br>
+
+		<input type="submit" value="登录"><br><br><br>
+	</form>
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="ajax-js/login.js"></script>
+</body>
+</html>
