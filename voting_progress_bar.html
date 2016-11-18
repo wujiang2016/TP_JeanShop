@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		.progress{
+			width: 500px;
+			height: 30px;
+			margin: 40px auto;
+			transform:rotate(-90deg);
+		}
+		.progress:first-child{
+			position: relative;
+			left: -300px;
+			top: 70px;
+		}
+		.progress span{
+			display: inline-block;
+			transform:rotate(90deg);
+		}
+		.progress:nth-child(3){
+			position: relative;
+			left: 300px;
+			top: -70px;
+		}
+		.bar{
+			/*width: 430px;*/
+			height: 100%;
+			background: red;
+			float: left;
+		}
+		.percent{
+			line-height: 30px;
+		}
+		.wenzi1{
+			display: inline-block;
+			position: relative;
+			left: 315px;
+			top: 135px;
+		}
+		.wenzi2{
+			display: inline-block;
+			position: relative;
+			left: 577px;
+			top: 135px;
+		}
+		.wenzi3{
+			display: inline-block;
+			position: relative;
+			left: 836px;
+			top: 135px;
+		}
+	</style>
+</head>
+<body>
+	<div class="progress">
+		<div class="bar" name="bar"></div><span class="percent" name="percent">100%</span>
+	</div>
+	<div class="progress">
+		<div class="bar" name="bar"></div><span class="percent" name="percent">100%</span>
+	</div>
+	<div class="progress">
+		<div class="bar" name="bar"></div><span class="percent" name="percent">100%</span>
+	</div>
+	<span class="wenzi1">中国</span>
+	<span class="wenzi2">美国</span>
+	<span class="wenzi3">德国</span>
+	<script>
+	var percent=0;
+	var width=[];
+	var percent=[];
+	var bar=[];
+	var per=[];
+	var total=0,num=[0,0,0];
+	var rnd;//记录随机数
+	function timer(){
+		// var d="倒计时："+n+"秒";
+		total=0;
+		for (var i = 0; i < 3; i++) {
+			num[i]+=Math.floor(Math.random()*10);
+			// console.log(num[i]);
+		};
+		for(key in num){
+			total=parseInt(total)+parseInt(num[key]);
+			// console.log(total);
+		}
+		if (total<1000) {
+			for (var i = 0; i < num.length; i++) {
+				percent[i]=num[i]/1000;
+				width[i]=470*num[i]/1000;
+			};
+		}
+		else{
+			for (var i = 0; i < num.length; i++) {
+				percent[i]=num[i]/total;
+				width[i]=470*num[i]/total;
+			};
+			clearInterval(timeid);
+		}
+		
+		bar=document.getElementsByName("bar");
+		per=document.getElementsByName("percent");
+
+		for (var i = 0; i < num.length; i++) {
+			bar[i].style.width=width[i]+"px";
+			// console.log(bar[i]);
+			var n=percent[i]*100
+			per[i].innerHTML=n.toPrecision(4)+"%";
+		};
+
+
+		
+		// document.getElementById("percent").innerHTML=percent+"%";
+		// // timeid=setTimeout(showTime,1000);
+		// percent++;
+		// if(percent==100) {
+		// 	clearInterval(timeid);
+		// 	document.getElementById("percent").innerHTML="完成";
+		// }
+	};
+	// timer();
+	var timeid=setInterval(timer,100);
+	// console.log(timeid);
+	
+
+	</script>
+</body>
+</html>
