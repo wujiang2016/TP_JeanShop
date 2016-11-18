@@ -1,0 +1,20 @@
+[ 2016-10-15T09:14:06+08:00 ] ::1 /jd/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:1.210069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.093006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.094006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.610035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.610035s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:2.563147s ]
+INFO: [ view_parse ] --END-- [ RunTime:2.563147s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.337019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.338019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.392023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.395023s ]
+

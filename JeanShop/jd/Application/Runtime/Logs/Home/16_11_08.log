@@ -1,0 +1,1074 @@
+[ 2016-11-08T09:25:16+08:00 ] ::1 /jd/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.066003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.024001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.024001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.291016s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.291016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.044003s ]
+INFO: [ app_end ] --END-- [ RunTime:0.045003s ]
+
+[ 2016-11-08T09:25:25+08:00 ] ::1 /jd/index.php/Home/Women/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.248014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.248014s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-08T09:25:40+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.5370s ]
+SQL: SHOW COLUMNS FROM `shop_jeanclassify` [ RunTime:0.1500s ]
+SQL: SELECT * FROM `shop_jeanclassify`  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\jd\Application\Home\Controller\JeanController.class.php:8) D:\xampp\htdocs\jd\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\jd\Application\Home\Controller\JeanController.class.php:8) D:\xampp\htdocs\jd\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\jd\Application\Home\Controller\JeanController.class.php:8) D:\xampp\htdocs\jd\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-08T09:33:54+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0130s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T09:33:54+08:00 ] ::1 /jd/index.php/Home/Jean/images/band/cpb.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-08T09:33:54+08:00 ] ::1 /jd/index.php/Home/Jean/images/slider/57585495-5E3F-4941-A031-97E215D7EFA8.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-08T09:33:54+08:00 ] ::1 /jd/index.php/Home/Jean/images/product/2233.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-08T09:33:54+08:00 ] ::1 /jd/index.php/Home/Jean/images/logo/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-08T09:33:54+08:00 ] ::1 /jd/index.php/Home/Jean/images/band/weimeng.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-11-08T09:33:55+08:00 ] ::1 /jd/index.php/Home/Jean/images/product/product1.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011001s ]
+ERR: 非法操作:images
+
+[ 2016-11-08T09:33:55+08:00 ] ::1 /jd/index.php/Home/Jean/images/logo/erweima.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:images
+
+[ 2016-11-08T09:33:55+08:00 ] ::1 /jd/index.php/Home/Jean/images/logo/service.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+
+[ 2016-11-08T09:33:55+08:00 ] ::1 /jd/index.php/Home/Jean/images/product/onsell.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:images
+
+[ 2016-11-08T09:33:55+08:00 ] ::1 /jd/index.php/Home/Jean/images/5aa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011001s ]
+
+[ 2016-11-08T09:44:32+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-08T10:02:39+08:00 ] ::1 /jd/index.php/Home/Jean/updatejeaninfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0230s ]
+SQL: SHOW COLUMNS FROM `shop_jeanclassify` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `shop_jeanclassify`  [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.087005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T10:35:15+08:00 ] ::1 /jd/index.php/Home/Jean/updateJeanInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.029002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018001s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0140s ]
+NOTIC: [8] Undefined index: is_promotion D:\xampp\htdocs\jd\Application\Home\Model\JeanModel.class.php 第 17 行.
+SQL: SELECT * FROM `shop_jean` WHERE `name` = '高腰微喇叭牛仔裤女2016新款弹力九分毛边秋季韩国显瘦潮裤子' AND `element` = '口袋' AND `style` = '通勤（OL）' AND `pattern` = '几何' AND `thickness` = '超薄' AND `material` = '薄牛仔布' AND `outseam` = '七分裤' AND `waistform` = '低腰' AND `panttype` = '阔腿裤' AND `season` = '夏季' AND `closed` = '纽扣'  [ RunTime:0.0020s ]
+SQL: INSERT INTO `shop_jean` (`name`,`element`,`style`,`pattern`,`thickness`,`material`,`outseam`,`waistform`,`panttype`,`season`,`closed`) VALUES ('高腰微喇叭牛仔裤女2016新款弹力九分毛边秋季韩国显瘦潮裤子','口袋','通勤（OL）','几何','超薄','薄牛仔布','七分裤','低腰','阔腿裤','夏季','纽扣') [ RunTime:0.1650s ]
+SQL: UPDATE `shop_jean` SET `is_promotion`=NULL,`wear_effect`='14785725115829yqFoeMkntk.jpg@@@1478572513881gADAsFrbsH.jpg@@@1478572513895XFglfEfwbP.jpg@@@1478572513907nSwFeFBQBo.jpg@@@1478572513918cQdWlwIkMa.jpg@@@1478572513927OiRtuvlUZc.jpg@@@1478572513939gvAHnnwqRo.jpg@@@147857251395MIFQTMMMRj.jpg@@@1478572513961ZsddEBCZkE.jpg@@@1478572513974MceuGQXpIv.jpg@@@1478572514024bfQvbkDWhv.jpg@@@1478572514076UChdlskcDW.jpg@@@1478572514087dItvWNGsBK.jpg@@@1478572514104NTeqOCqXhz.jpg@@@1478572514118wxQohinZKW.jpg@@@147857251413ynPfTiHAzo.jpg',`detail_work`='147857251414ZzMLbUGdze.jpg@@@1478572514151EvEUGtcHjb.jpg@@@147857251416dkmYuVnomF.jpg@@@1478572514171lDqHEWRSrX.jpg@@@1478572514181BEVLGJpSPz.jpg@@@1478572514193YwqSUbUfBO.jpg@@@1478572514204KfRmAjqABj.jpg@@@1478572514215VlxyfvBSSK.jpg@@@1478572514243xLGkxTvzmI.jpg' WHERE `name` = '高腰微喇叭牛仔裤女2016新款弹力九分毛边秋季韩国显瘦潮裤子' AND `element` = '口袋' AND `style` = '通勤（OL）' AND `pattern` = '几何' AND `thickness` = '超薄' AND `material` = '薄牛仔布' AND `outseam` = '七分裤' AND `waistform` = '低腰' AND `panttype` = '阔腿裤' AND `season` = '夏季' AND `closed` = '纽扣' [ RunTime:0.9081s ]
+SQL: SELECT `id` FROM `shop_jean` WHERE `name` = '高腰微喇叭牛仔裤女2016新款弹力九分毛边秋季韩国显瘦潮裤子' AND `element` = '口袋' AND `style` = '通勤（OL）' AND `pattern` = '几何' AND `thickness` = '超薄' AND `material` = '薄牛仔布' AND `outseam` = '七分裤' AND `waistform` = '低腰' AND `panttype` = '阔腿裤' AND `season` = '夏季' AND `closed` = '纽扣' LIMIT 1   [ RunTime:0.0170s ]
+
+[ 2016-11-08T10:35:15+08:00 ] ::1 /jd/index.php/Home/Jean/updateJeanInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = 7 AND `fashion_name` = '黑色' AND `size` = '25'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `shop_jeanfashion` (`jean_id`,`fashion_name`,`size`,`quantity`,`price`,`promotion_price`,`fashion_img`) VALUES ('7','黑色','25','670','67','56','14785725155861HHcYroEeVz.jpg') [ RunTime:0.1200s ]
+SQL: SELECT `id` FROM `shop_jeanfashion` WHERE `jean_id` = 7 AND `fashion_name` = '黑色' AND `size` = '25' AND `quantity` = 670 AND `price` = '67' AND `promotion_price` = '56' AND `fashion_img` = '14785725155861HHcYroEeVz.jpg' LIMIT 1   [ RunTime:0.0180s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = 7 AND `fashion_name` = '黑色' AND `size` = '26'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `shop_jeanfashion` (`jean_id`,`fashion_name`,`size`,`quantity`,`price`,`promotion_price`) VALUES ('7','黑色','26','345','67','56') [ RunTime:0.1550s ]
+SQL: SELECT `id` FROM `shop_jeanfashion` WHERE `jean_id` = 7 AND `fashion_name` = '黑色' AND `size` = '26' AND `quantity` = 345 AND `price` = '67' AND `promotion_price` = '56' LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2016-11-08T10:35:16+08:00 ] ::1 /jd/index.php/Home/Jean/updateJeanInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = 7 AND `fashion_name` = '蓝色' AND `size` = '27'  [ RunTime:0.0020s ]
+SQL: INSERT INTO `shop_jeanfashion` (`jean_id`,`fashion_name`,`size`,`quantity`,`price`,`promotion_price`,`fashion_img`) VALUES ('7','蓝色','27','345','77','67','14785725161341eUtSnLiypv.jpg') [ RunTime:0.0830s ]
+SQL: SELECT `id` FROM `shop_jeanfashion` WHERE `jean_id` = 7 AND `fashion_name` = '蓝色' AND `size` = '27' AND `quantity` = 345 AND `price` = '77' AND `promotion_price` = '67' AND `fashion_img` = '14785725161341eUtSnLiypv.jpg' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = 7 AND `fashion_name` = '蓝色' AND `size` = '28'  [ RunTime:0.0050s ]
+SQL: INSERT INTO `shop_jeanfashion` (`jean_id`,`fashion_name`,`size`,`quantity`,`price`,`promotion_price`) VALUES ('7','蓝色','28','345','78','68') [ RunTime:0.0570s ]
+SQL: SELECT `id` FROM `shop_jeanfashion` WHERE `jean_id` = 7 AND `fashion_name` = '蓝色' AND `size` = '28' AND `quantity` = 345 AND `price` = '78' AND `promotion_price` = '68' LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2016-11-08T10:35:19+08:00 ] ::1 /jd/index.php/Home/Jean/updatejeaninfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `shop_jeanclassify` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `shop_jeanclassify`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.530030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.531030s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.032002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.032002s ]
+
+[ 2016-11-08T10:55:45+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0140s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.029002s ]
+
+[ 2016-11-08T10:55:50+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0160s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-08T10:57:06+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0130s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015001s ]
+
+[ 2016-11-08T10:57:35+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0120s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-08T10:58:10+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0120s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-08T10:58:33+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0120s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.022001s ]
+
+[ 2016-11-08T10:59:47+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0140s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-08T11:00:20+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0150s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T11:01:11+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0280s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T11:01:27+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0130s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T11:03:00+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0140s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.017000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-08T11:04:14+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0240s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-08T11:05:24+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0180s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.007000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T11:21:25+08:00 ] ::1 /jd/index.php/Home/Jean/updateJeanInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0140s ]
+NOTIC: [8] Undefined index: is_promotion D:\xampp\htdocs\jd\Application\Home\Model\JeanModel.class.php 第 15 行.
+SQL: SELECT * FROM `shop_jean` WHERE `name` = '爱爱丸10.17冬装新款基础百搭拼接卷边小脚弹力牛仔铅笔裤' AND `element` = '水洗' AND `style` = '街头（潮人）' AND `pattern` = '彩绘' AND `thickness` = '加厚' AND `material` = '梭织' AND `outseam` = '七分裤' AND `waistform` = '自然腰' AND `panttype` = '铅笔裤' AND `season` = '秋冬' AND `closed` = '纽扣'  [ RunTime:0.0060s ]
+SQL: INSERT INTO `shop_jean` (`name`,`element`,`style`,`pattern`,`thickness`,`material`,`outseam`,`waistform`,`panttype`,`season`,`closed`) VALUES ('爱爱丸10.17冬装新款基础百搭拼接卷边小脚弹力牛仔铅笔裤','水洗','街头（潮人）','彩绘','加厚','梭织','七分裤','自然腰','铅笔裤','秋冬','纽扣') [ RunTime:0.3680s ]
+SQL: UPDATE `shop_jean` SET `is_promotion`=NULL,`wear_effect`='14785752836424oWXqisxnPp.jpg@@@14785752836564yFIUokKKCt.jpg@@@14785752836684uQBYKSVsgU.jpg@@@14785752836794XrECsoETqb.jpg@@@14785752836914eAEWCAsQWz.jpg@@@14785752837034tbMBRwVmys.jpg@@@14785752837144WKzGNBGGTO.jpg@@@14785752837244djleDGpArP.jpg@@@14785752837394cIddYGbnaa.jpg@@@14785752837584ULGUUqQTNs.jpg@@@14785752837904bdKKmbwJWT.jpg@@@14785752838074jickHydeey.jpg',`detail_work`='14785752838214YhjykxjsMF.jpg@@@14785752838304OxdKkEhsig.jpg@@@14785752838614wGUUVffncW.jpg@@@14785752838724bcPHsFHtrO.jpg@@@14785752838834CLIVZMDSVc.jpg@@@14785752838934NWQMzaIvwv.jpg@@@14785752839144UhRaABufYJ.jpg@@@14785752839285sElkwNOhQz.jpg@@@14785752839435DgngdmXzod.jpg@@@14785752839525HXGLArePqZ.jpg@@@14785752839635itnNOcdZwV.jpg@@@14785752839735WAeDFKkfps.jpg@@@14785752839845NfLSlKecCw.jpg@@@14785752839955gmlwcqkoEE.jpg' WHERE `name` = '爱爱丸10.17冬装新款基础百搭拼接卷边小脚弹力牛仔铅笔裤' AND `element` = '水洗' AND `style` = '街头（潮人）' AND `pattern` = '彩绘' AND `thickness` = '加厚' AND `material` = '梭织' AND `outseam` = '七分裤' AND `waistform` = '自然腰' AND `panttype` = '铅笔裤' AND `season` = '秋冬' AND `closed` = '纽扣' [ RunTime:1.2281s ]
+SQL: SELECT `id` FROM `shop_jean` WHERE `name` = '爱爱丸10.17冬装新款基础百搭拼接卷边小脚弹力牛仔铅笔裤' AND `element` = '水洗' AND `style` = '街头（潮人）' AND `pattern` = '彩绘' AND `thickness` = '加厚' AND `material` = '梭织' AND `outseam` = '七分裤' AND `waistform` = '自然腰' AND `panttype` = '铅笔裤' AND `season` = '秋冬' AND `closed` = '纽扣' LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2016-11-08T11:21:26+08:00 ] ::1 /jd/index.php/Home/Jean/updateJeanInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = 8 AND `fashion_name` = '黑色' AND `size` = 'M'  [ RunTime:0.0020s ]
+SQL: INSERT INTO `shop_jeanfashion` (`jean_id`,`fashion_name`,`size`,`quantity`,`price`,`promotion_price`,`fashion_img`) VALUES ('8','黑色','M','234','56','45','14785752859276YdWVzuRGls.jpg') [ RunTime:0.1020s ]
+SQL: SELECT `id` FROM `shop_jeanfashion` WHERE `jean_id` = 8 AND `fashion_name` = '黑色' AND `size` = 'M' AND `quantity` = 234 AND `price` = '56' AND `promotion_price` = '45' AND `fashion_img` = '14785752859276YdWVzuRGls.jpg' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = 8 AND `fashion_name` = '黑色' AND `size` = 'L'  [ RunTime:0.0020s ]
+SQL: INSERT INTO `shop_jeanfashion` (`jean_id`,`fashion_name`,`size`,`quantity`,`price`,`promotion_price`) VALUES ('8','黑色','L','5645','56','45') [ RunTime:0.0490s ]
+SQL: SELECT `id` FROM `shop_jeanfashion` WHERE `jean_id` = 8 AND `fashion_name` = '黑色' AND `size` = 'L' AND `quantity` = 5645 AND `price` = '56' AND `promotion_price` = '45' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-08T11:21:27+08:00 ] ::1 /jd/index.php/Home/Jean/updateJeanInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = 8 AND `fashion_name` = '牛仔蓝' AND `size` = 'XXL'  [ RunTime:0.0030s ]
+SQL: INSERT INTO `shop_jeanfashion` (`jean_id`,`fashion_name`,`size`,`quantity`,`price`,`promotion_price`,`fashion_img`) VALUES ('8','牛仔蓝','XXL','3434','56','45','14785752863616AFgBIhKbAg.jpg') [ RunTime:0.1160s ]
+SQL: SELECT `id` FROM `shop_jeanfashion` WHERE `jean_id` = 8 AND `fashion_name` = '牛仔蓝' AND `size` = 'XXL' AND `quantity` = 3434 AND `price` = '56' AND `promotion_price` = '45' AND `fashion_img` = '14785752863616AFgBIhKbAg.jpg' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = 8 AND `fashion_name` = '牛仔蓝' AND `size` = 'XL'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `shop_jeanfashion` (`jean_id`,`fashion_name`,`size`,`quantity`,`price`,`promotion_price`) VALUES ('8','牛仔蓝','XL','453','56','45') [ RunTime:0.6080s ]
+SQL: SELECT `id` FROM `shop_jeanfashion` WHERE `jean_id` = 8 AND `fashion_name` = '牛仔蓝' AND `size` = 'XL' AND `quantity` = 453 AND `price` = '56' AND `promotion_price` = '45' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-08T11:21:29+08:00 ] ::1 /jd/index.php/Home/Jean/updatejeaninfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `shop_jeanclassify` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `shop_jeanclassify`  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013000s ]
+
+[ 2016-11-08T22:30:19+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.102006s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.7000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0170s ]
+ERR: 1146:Table 'dress_shop.jeanfashion' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shop_jean` left join jeanfashion on jean.id=jeanfashion.jean_id  
+ERR: 1146:Table 'dress_shop.jeanfashion' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shop_jean` left join jeanfashion on jean.id=jeanfashion.jean_id  
+
+[ 2016-11-08T22:31:33+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id   [ RunTime:0.2770s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.032002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.032002s ]
+
+[ 2016-11-08T22:32:39+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0150s ]
+ERR: 1052:Column 'id' in where clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  WHERE `id` = 'shop_jean.id' 
+ERR: 1052:Column 'id' in where clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  WHERE `id` = 'shop_jean.id' 
+
+[ 2016-11-08T22:39:35+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0180s ]
+SQL: SELECT shop_jean.id FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  LIMIT 1   [ RunTime:0.1400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-08T22:39:55+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0160s ]
+ERR: 1052:Column 'id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `id` FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  LIMIT 1  
+ERR: 1052:Column 'id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `id` FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  LIMIT 1  
+
+[ 2016-11-08T22:41:17+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0180s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\JeanModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T22:41:37+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id   [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T22:50:38+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0180s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0150s ]
+SQL: SELECT shop_jean.id FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id  [ RunTime:0.1310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-08T22:55:46+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0180s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0160s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T23:06:45+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020001s ]
+
+[ 2016-11-08T23:07:43+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0180s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0170s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id  [ RunTime:0.0090s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.303017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.303017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021001s ]
+
+[ 2016-11-08T23:09:51+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0120s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T23:15:13+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0130s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-08T23:15:43+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0220s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-11-08T23:17:20+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0140s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-08T23:17:47+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0180s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id  [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T23:21:57+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0180s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0330s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id LIMIT 5   [ RunTime:0.2050s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T23:29:21+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0200s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0170s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id LIMIT 5   [ RunTime:0.0040s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id  [ RunTime:0.1020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T23:31:26+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0250s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0170s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id LIMIT 5   [ RunTime:0.0020s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id  [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-08T23:46:31+08:00 ] ::1 /jd/index.php/Home/Jean/updateJeanInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `shop_jean` WHERE `name` = '2016秋季新款韩系女九分裤修身百搭铅笔裤小脚裤长裤牛仔裤' AND `element` = '水洗' AND `style` = '街头（潮人）' AND `pattern` = '拼色' AND `thickness` = '超薄' AND `material` = '全棉牛仔布' AND `outseam` = '短裤' AND `waistform` = '中腰' AND `panttype` = '铅笔裤' AND `season` = '秋冬' AND `closed` = '纽扣' AND `stereotype` = '紧身'  [ RunTime:0.1820s ]
+SQL: INSERT INTO `shop_jean` (`name`,`element`,`style`,`pattern`,`thickness`,`material`,`outseam`,`waistform`,`panttype`,`season`,`closed`,`stereotype`) VALUES ('2016秋季新款韩系女九分裤修身百搭铅笔裤小脚裤长裤牛仔裤','水洗','街头（潮人）','拼色','超薄','全棉牛仔布','短裤','中腰','铅笔裤','秋冬','纽扣','紧身') [ RunTime:0.7960s ]
+SQL: UPDATE `shop_jean` SET `is_promotion`='on',`wear_effect`='14786199876309xBBznjEdkX.jpg@@@14786199878119lMajTFTKBn.jpg@@@14786199878249CTHPmCkPHc.jpg@@@14786199878479ItalZgcwIg.jpg',`detail_work`='14786199878599ZzHYAOvNTf.jpg@@@14786199878859VeOQHbxODl.jpg@@@14786199879059FrgLxqqgLd.jpg@@@1478619988075FCHvXDVMQo.jpg@@@1478619989216NTkoUhBICu.jpg@@@1478619989427PawZzwNNBA.jpg' WHERE `name` = '2016秋季新款韩系女九分裤修身百搭铅笔裤小脚裤长裤牛仔裤' AND `element` = '水洗' AND `style` = '街头（潮人）' AND `pattern` = '拼色' AND `thickness` = '超薄' AND `material` = '全棉牛仔布' AND `outseam` = '短裤' AND `waistform` = '中腰' AND `panttype` = '铅笔裤' AND `season` = '秋冬' AND `closed` = '纽扣' AND `stereotype` = '紧身' [ RunTime:0.6490s ]
+SQL: SELECT `id` FROM `shop_jean` WHERE `name` = '2016秋季新款韩系女九分裤修身百搭铅笔裤小脚裤长裤牛仔裤' AND `element` = '水洗' AND `style` = '街头（潮人）' AND `pattern` = '拼色' AND `thickness` = '超薄' AND `material` = '全棉牛仔布' AND `outseam` = '短裤' AND `waistform` = '中腰' AND `panttype` = '铅笔裤' AND `season` = '秋冬' AND `closed` = '纽扣' AND `stereotype` = '紧身' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-08T23:46:31+08:00 ] ::1 /jd/index.php/Home/Jean/updateJeanInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = 9 AND `fashion_name` = '深蓝色' AND `size` = 'S'  [ RunTime:0.0080s ]
+SQL: INSERT INTO `shop_jeanfashion` (`jean_id`,`fashion_name`,`size`,`quantity`,`price`,`promotion_price`,`fashion_img`) VALUES ('9','深蓝色','S','2334','69','48','14786199912541odwsiLgCie.jpg') [ RunTime:0.1530s ]
+SQL: SELECT `id` FROM `shop_jeanfashion` WHERE `jean_id` = 9 AND `fashion_name` = '深蓝色' AND `size` = 'S' AND `quantity` = 2334 AND `price` = '69' AND `promotion_price` = '48' AND `fashion_img` = '14786199912541odwsiLgCie.jpg' LIMIT 1   [ RunTime:0.0190s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = 9 AND `fashion_name` = '深蓝色' AND `size` = 'M'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `shop_jeanfashion` (`jean_id`,`fashion_name`,`size`,`quantity`,`price`,`promotion_price`) VALUES ('9','深蓝色','M','234','69','48') [ RunTime:0.1110s ]
+SQL: SELECT `id` FROM `shop_jeanfashion` WHERE `jean_id` = 9 AND `fashion_name` = '深蓝色' AND `size` = 'M' AND `quantity` = 234 AND `price` = '69' AND `promotion_price` = '48' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-08T23:46:34+08:00 ] ::1 /jd/index.php/Home/Jean/updatejeaninfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0190s ]
+SQL: SHOW COLUMNS FROM `shop_jeanclassify` [ RunTime:0.0310s ]
+SQL: SELECT * FROM `shop_jeanclassify`  [ RunTime:0.1240s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.150009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.150009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T23:46:43+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0310s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0180s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id LIMIT 5   [ RunTime:0.0010s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-08T23:49:33+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0190s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0170s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id ORDER BY shop_jean.id desc LIMIT 5   [ RunTime:0.0020s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id ORDER BY shop_jean.id desc  [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2016-11-08T23:50:52+08:00 ] ::1 /jd/index.php/Home/Jean/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0200s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id ORDER BY shop_jean.id desc LIMIT 5   [ RunTime:0.0060s ]
+SQL: SELECT shop_jean.id,shop_jean.name,shop_jeanfashion.fashion_img,shop_jeanfashion.price FROM `shop_jean` left join shop_jeanfashion on shop_jean.id=shop_jeanfashion.jean_id  GROUP BY shop_jeanfashion.jean_id ORDER BY shop_jean.id desc  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+

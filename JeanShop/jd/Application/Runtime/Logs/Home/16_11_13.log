@@ -1,0 +1,2749 @@
+[ 2016-11-13T10:02:03+08:00 ] ::1 /jd/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.146008s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.021001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.050003s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.051003s ]
+NOTIC: [8] Undefined variable: error D:\xampp\htdocs\jd\Application\Runtime\Cache\Home\5c9ee6d19cd41add49f97afe3aef0b25.php 第 31 行.
+NOTIC: [8] Undefined index: HTTP_REFERER D:\xampp\htdocs\jd\Application\Runtime\Cache\Home\5c9ee6d19cd41add49f97afe3aef0b25.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.167010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.172010s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.020001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.055003s ]
+INFO: [ app_end ] --END-- [ RunTime:0.055003s ]
+
+[ 2016-11-13T10:02:05+08:00 ] ::1 /jd/index.php/Home/User/verifyCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-13T10:02:46+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T10:04:25+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2016-11-13T10:06:06+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-13T10:10:17+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.019001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2016-11-13T10:10:21+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T10:52:15+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016001s ]
+
+[ 2016-11-13T10:52:42+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.183010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.183010s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.018001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2016-11-13T11:11:04+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T11:11:09+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T11:49:50+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013001s ]
+NOTIC: [8] Undefined index: user D:\xampp\htdocs\jd\Application\Home\Controller\UserController.class.php 第 92 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.018001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2016-11-13T11:52:11+08:00 ] ::1 /jd/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: error D:\xampp\htdocs\jd\Application\Runtime\Cache\Home\5c9ee6d19cd41add49f97afe3aef0b25.php 第 31 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T11:52:12+08:00 ] ::1 /jd/index.php/Home/User/verifyCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T11:52:27+08:00 ] ::1 /jd/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `shop_user` WHERE ( username='admin' and password='123' )  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-11-13T11:52:27+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T11:53:13+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 17 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0100s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `user_id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0100s ]
+ERR: 1048:Column 'user_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `shop_useraddress` (`user_id`) VALUES (NULL)
+ERR: 1048:Column 'user_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `shop_useraddress` (`user_id`) VALUES (NULL)
+
+[ 2016-11-13T11:55:43+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0090s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 18 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `user_id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-13T11:56:38+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 18 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0100s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-13T11:56:49+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 18 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0110s ]
+SQL: INSERT INTO `shop_useraddress` (`user_id`) VALUES ('9') [ RunTime:0.1470s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T11:58:03+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0100s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 18 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-13T11:59:19+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 18 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-13T12:00:47+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0620s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 18 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0110s ]
+SQL: INSERT INTO `shop_useraddress` (`user_id`) VALUES ('9') [ RunTime:0.2040s ]
+
+[ 2016-11-13T12:14:05+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 18 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0120s ]
+SQL: INSERT INTO `shop_useraddress` (`user_id`) VALUES ('9') [ RunTime:0.1180s ]
+
+[ 2016-11-13T12:29:30+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 18 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0140s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0150s ]
+SQL: INSERT INTO `shop_useraddress` (`user_id`) VALUES ('9') [ RunTime:0.2260s ]
+
+[ 2016-11-13T13:14:24+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014001s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0100s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 18 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0150s ]
+SQL: INSERT INTO `shop_useraddress` (`user_id`) VALUES ('9') [ RunTime:0.0820s ]
+
+[ 2016-11-13T13:16:06+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0170s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 18 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0190s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0020s ]
+ERR: 1146:Table 'dress_shop.shop_shop_useraddress' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shop_shop_useraddress`
+ERR: 1146:Table 'dress_shop.shop_shop_useraddress' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shop_shop_useraddress`
+
+[ 2016-11-13T13:16:27+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0160s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 18 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0150s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0220s ]
+SQL: INSERT INTO `shop_useraddress` (`user_id`,`receiver`,`area`,`detailed_address`,`postcode`,`tel_mobile`,`default_address`) VALUES ('9','吴江','陕西西安','西电科技园','0','86-9427985278<br>86-837-289478357-2378','1') [ RunTime:0.2430s ]
+
+[ 2016-11-13T13:17:38+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 18 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0110s ]
+SQL: INSERT INTO `shop_useraddress` (`user_id`,`receiver`,`area`,`detailed_address`,`postcode`,`tel_mobile`,`default_address`) VALUES ('9','吴江','陕西西安','西电科技园','0','86-9427985278<br>86-837-289478357-2378','1') [ RunTime:0.1040s ]
+
+[ 2016-11-13T13:18:34+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0170s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 18 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0160s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0170s ]
+SQL: INSERT INTO `shop_useraddress` (`user_id`,`receiver`,`area`,`detailed_address`,`postcode`,`tel_mobile`,`default_address`) VALUES ('9','吴江','陕西西安','西电科技园','0','86-9427985278<br>86-837-289478357-2378','1') [ RunTime:0.1520s ]
+
+[ 2016-11-13T13:50:41+08:00 ] ::1 /jd/index.php/Home/Jean/detail.html?id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0420s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `shop_jean` WHERE `id` = 8  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = '8'  [ RunTime:0.0370s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.268016s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.268016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.016001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.075004s ]
+INFO: [ app_end ] --END-- [ RunTime:0.075004s ]
+
+[ 2016-11-13T13:50:57+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.023001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.023001s ]
+
+[ 2016-11-13T13:56:41+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 18 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_useraddress` WHERE `user_id` = 9 LIMIT 1   [ RunTime:0.0020s ]
+SQL: INSERT INTO `shop_useraddress` (`user_id`,`receiver`,`area`,`detailed_address`,`postcode`,`tel_mobile`,`default_address`) VALUES ('9','吴江','陕西西安','西电科技园','0','86-9427985278<br>86-837-289478357-2378','1') [ RunTime:0.4850s ]
+
+[ 2016-11-13T14:18:55+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0130s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 19 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0140s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0040s ]
+SQL: UPDATE `shop_useraddress` SET `default_address`='0' WHERE `user_id` = 9 [ RunTime:0.2000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_useraddress` WHERE `user_id` = 9 LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `shop_useraddress` (`user_id`,`receiver`,`area`,`detailed_address`,`postcode`,`tel_mobile`,`default_address`) VALUES ('9','吴江','陕西西安','西电科技园','0','86-9427985278<br>86-837-289478357-2378','1') [ RunTime:0.1110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T15:11:11+08:00 ] ::1 /jd/index.php/Home/Jean/detail.html?id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.044003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `shop_jean` WHERE `id` = 8  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = '8'  [ RunTime:0.0050s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.016001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021001s ]
+
+[ 2016-11-13T15:11:20+08:00 ] ::1 /jd/index.php/Home/User/order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.019001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019001s ]
+
+[ 2016-11-13T15:11:20+08:00 ] ::1 /jd/index.php/Home/images/product/product2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-13T15:11:20+08:00 ] ::1 /jd/index.php/Home/images/logo/erweima.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:Images
+
+[ 2016-11-13T15:11:20+08:00 ] ::1 /jd/index.php/Home/images/icon/tianmao.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T15:11:21+08:00 ] ::1 /jd/index.php/Home/images/logo/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T15:11:21+08:00 ] ::1 /jd/index.php/Home/images/logo/service.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T15:42:50+08:00 ] ::1 /jd/index.php/Home/Jean/detail.html?id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0200s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `shop_jean` WHERE `id` = 8  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = '8'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T15:42:54+08:00 ] ::1 /jd/index.php/Home/Jean/getstorage?jean_id=8&fashion_name=%E9%BB%91%E8%89%B2&size=&flag=size
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0240s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0150s ]
+SQL: SELECT `size` FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0120s ]
+SQL: SELECT SUM(quantity) AS tp_sum FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色' LIMIT 1   [ RunTime:0.0120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T15:42:55+08:00 ] ::1 /jd/index.php/Home/Jean/getstorage?jean_id=8&fashion_name=%E9%BB%91%E8%89%B2&size=L&flag=fashion_name
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0110s ]
+SQL: SELECT SUM(quantity) AS tp_sum FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色' AND `size` = 'L' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0120s ]
+SQL: SELECT `fashion_name` FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `size` = 'L'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T15:42:59+08:00 ] ::1 /jd/index.php/Home/User/order.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T15:43:00+08:00 ] ::1 /jd/index.php/Home/images/logo/erweima.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.043002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.043002s ]
+ERR: 无法加载控制器:Images
+
+[ 2016-11-13T15:43:00+08:00 ] ::1 /jd/index.php/Home/images/logo/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+
+[ 2016-11-13T15:43:00+08:00 ] ::1 /jd/index.php/Home/images/logo/service.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-11-13T15:43:00+08:00 ] ::1 /jd/index.php/Home/images/product/product2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-13T15:43:00+08:00 ] ::1 /jd/index.php/Home/images/icon/tianmao.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-13T15:57:52+08:00 ] ::1 /jd/index.php/Home/User/order.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-13T15:57:52+08:00 ] ::1 /jd/index.php/Home/images/logo/service.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-13T15:57:53+08:00 ] ::1 /jd/index.php/Home/images/logo/erweima.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Images
+
+[ 2016-11-13T15:57:53+08:00 ] ::1 /jd/index.php/Home/images/logo/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+
+[ 2016-11-13T15:57:53+08:00 ] ::1 /jd/index.php/Home/images/icon/tianmao.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.037002s ]
+
+[ 2016-11-13T16:03:23+08:00 ] ::1 /jd/index.php/Home/User/order.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-13T16:03:23+08:00 ] ::1 /jd/index.php/Home/images/icon/tianmao.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T16:03:24+08:00 ] ::1 /jd/index.php/Home/images/logo/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T16:03:24+08:00 ] ::1 /jd/index.php/Home/images/logo/erweima.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Images
+
+[ 2016-11-13T16:03:24+08:00 ] ::1 /jd/index.php/Home/images/logo/service.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-11-13T16:03:24+08:00 ] ::1 /jd/index.php/Home/images/logo/service.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-13T16:03:24+08:00 ] ::1 /jd/index.php/Home/images/logo/erweima.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+ERR: 无法加载控制器:Images
+
+[ 2016-11-13T16:05:00+08:00 ] ::1 /jd/index.php/Home/User/order.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.005000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T16:05:00+08:00 ] ::1 /jd/index.php/Home/images/icon/tianmao.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010001s ]
+
+[ 2016-11-13T16:05:00+08:00 ] ::1 /jd/index.php/Home/images/logo/service.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-13T16:05:00+08:00 ] ::1 /jd/index.php/Home/images/logo/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016001s ]
+
+[ 2016-11-13T16:05:00+08:00 ] ::1 /jd/index.php/Home/images/logo/erweima.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Images
+
+[ 2016-11-13T16:05:36+08:00 ] ::1 /jd/index.php/Home/User/order.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T16:05:37+08:00 ] ::1 /jd/index.php/Home/images/logo/service.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016001s ]
+
+[ 2016-11-13T16:05:37+08:00 ] ::1 /jd/index.php/Home/images/logo/erweima.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载控制器:Images
+
+[ 2016-11-13T16:05:37+08:00 ] ::1 /jd/index.php/Home/images/icon/tianmao.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018001s ]
+
+[ 2016-11-13T16:05:37+08:00 ] ::1 /jd/index.php/Home/images/logo/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T16:05:37+08:00 ] ::1 /jd/index.php/Home/images/logo/erweima.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载控制器:Images
+
+[ 2016-11-13T16:05:37+08:00 ] ::1 /jd/index.php/Home/images/logo/service.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-11-13T16:11:05+08:00 ] ::1 /jd/index.php/Home/User/order.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.020001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.020001s ]
+
+[ 2016-11-13T16:11:05+08:00 ] ::1 /jd/index.php/Home/images/logo/erweima.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Images
+
+[ 2016-11-13T16:11:05+08:00 ] ::1 /jd/index.php/Home/images/logo/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-13T16:11:05+08:00 ] ::1 /jd/index.php/Home/images/icon/tianmao.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-13T16:11:05+08:00 ] ::1 /jd/index.php/Home/images/logo/service.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T16:11:06+08:00 ] ::1 /jd/index.php/Home/images/logo/erweima.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Images
+
+[ 2016-11-13T16:11:06+08:00 ] ::1 /jd/index.php/Home/images/logo/service.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-13T16:12:13+08:00 ] ::1 /jd/index.php/Home/User/order.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-11-13T16:12:13+08:00 ] ::1 /jd/index.php/Home/images/logo/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T16:12:13+08:00 ] ::1 /jd/index.php/Home/images/logo/erweima.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.027002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027002s ]
+ERR: 无法加载控制器:Images
+
+[ 2016-11-13T16:12:14+08:00 ] ::1 /jd/index.php/Home/images/logo/service.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-13T16:12:14+08:00 ] ::1 /jd/index.php/Home/images/icon/tianmao.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-13T16:13:38+08:00 ] ::1 /jd/index.php/Home/User/order.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.204011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.205011s ]
+
+[ 2016-11-13T16:16:48+08:00 ] ::1 /jd/index.php/Home/Jean/detail.html?id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `shop_jean` WHERE `id` = 8  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = '8'  [ RunTime:0.0120s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2016-11-13T16:16:55+08:00 ] ::1 /jd/index.php/Home/Jean/getstorage?jean_id=8&fashion_name=%E9%BB%91%E8%89%B2&size=&flag=size
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0120s ]
+SQL: SELECT `size` FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色'  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0150s ]
+SQL: SELECT SUM(quantity) AS tp_sum FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T16:16:57+08:00 ] ::1 /jd/index.php/Home/Jean/getstorage?jean_id=8&fashion_name=%E9%BB%91%E8%89%B2&size=L&flag=fashion_name
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0110s ]
+SQL: SELECT SUM(quantity) AS tp_sum FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色' AND `size` = 'L' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0130s ]
+SQL: SELECT `fashion_name` FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `size` = 'L'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T16:16:59+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T17:53:44+08:00 ] ::1 /jd/index.php/Home/Jean/detail.html?id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.045003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.025001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027001s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.3020s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `shop_jean` WHERE `id` = 8  [ RunTime:0.0800s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = '8'  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.185010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.185010s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.027002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.027002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021001s ]
+
+[ 2016-11-13T17:53:48+08:00 ] ::1 /jd/index.php/Home/Jean/getstorage?jean_id=8&fashion_name=%E9%BB%91%E8%89%B2&size=&flag=size
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0110s ]
+SQL: SELECT `size` FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0110s ]
+SQL: SELECT SUM(quantity) AS tp_sum FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色' LIMIT 1   [ RunTime:0.0630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-13T17:53:50+08:00 ] ::1 /jd/index.php/Home/Jean/getstorage?jean_id=8&fashion_name=%E9%BB%91%E8%89%B2&size=L&flag=fashion_name
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0270s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0880s ]
+SQL: SELECT SUM(quantity) AS tp_sum FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色' AND `size` = 'L' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0120s ]
+SQL: SELECT `fashion_name` FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `size` = 'L'  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T17:59:20+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: totalStorage D:\xampp\htdocs\jd\Application\Home\Controller\UserController.class.php 第 155 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T18:02:04+08:00 ] ::1 /jd/index.php/Home/Jean/detail.html?id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `shop_jean` WHERE `id` = 8  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `shop_jeanfashion` WHERE `jean_id` = '8'  [ RunTime:0.0060s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T18:02:10+08:00 ] ::1 /jd/index.php/Home/Jean/getstorage?jean_id=8&fashion_name=%E9%BB%91%E8%89%B2&size=&flag=size
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0140s ]
+SQL: SELECT `size` FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0130s ]
+SQL: SELECT SUM(quantity) AS tp_sum FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色' LIMIT 1   [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T18:02:11+08:00 ] ::1 /jd/index.php/Home/Jean/getstorage?jean_id=8&fashion_name=%E9%BB%91%E8%89%B2&size=L&flag=fashion_name
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0260s ]
+SQL: SELECT SUM(quantity) AS tp_sum FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色' AND `size` = 'L' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0130s ]
+SQL: SELECT `fashion_name` FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `size` = 'L'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T18:02:13+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T18:03:52+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T18:05:17+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2016-11-13T18:09:44+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T18:14:39+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T18:16:31+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T18:18:10+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T18:22:30+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T18:24:00+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T18:30:10+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.029001s ]
+
+[ 2016-11-13T18:36:28+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T18:37:40+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-11-13T18:38:36+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.088005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.089005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.062003s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.062003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-11-13T18:42:16+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2016-11-13T19:29:05+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.123007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.018001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015001s ]
+
+[ 2016-11-13T19:29:38+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T19:30:23+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T19:30:27+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-11-13T19:31:00+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T19:31:05+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.091005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T19:31:22+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-13T19:32:00+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2016-11-13T19:38:43+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T19:39:07+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T19:47:46+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T19:48:01+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-13T19:48:08+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T19:52:09+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T20:02:37+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2016-11-13T21:21:40+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.087005s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011001s ]
+NOTIC: [8] Undefined index: totalStorage D:\xampp\htdocs\jd\Application\Home\Controller\UserController.class.php 第 155 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.006000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.180010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.180010s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.034002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.035002s ]
+
+[ 2016-11-13T21:22:17+08:00 ] ::1 /jd/index.php/Home/Jean/getstorage?jean_id=8&fashion_name=%E9%BB%91%E8%89%B2&size=&flag=size
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.5150s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0620s ]
+SQL: SELECT `size` FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色'  [ RunTime:0.1390s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0220s ]
+SQL: SELECT SUM(quantity) AS tp_sum FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色' LIMIT 1   [ RunTime:0.0410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T21:22:20+08:00 ] ::1 /jd/index.php/Home/Jean/getstorage?jean_id=8&fashion_name=%E9%BB%91%E8%89%B2&size=L&flag=fashion_name
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `shop_jean` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0130s ]
+SQL: SELECT SUM(quantity) AS tp_sum FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `fashion_name` = '黑色' AND `size` = 'L' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_jeanfashion` [ RunTime:0.0140s ]
+SQL: SELECT `fashion_name` FROM `shop_jeanfashion` WHERE `jean_id` = '8' AND `size` = 'L'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T21:22:24+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2016-11-13T21:24:16+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2016-11-13T21:27:56+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T21:47:01+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+ERR: 1146:Table 'dress_shop.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'dress_shop.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2016-11-13T21:47:29+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.1090s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.2030s ]
+
+[ 2016-11-13T21:47:59+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0020s ]
+
+[ 2016-11-13T22:09:57+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0190s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0200s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.231013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.231013s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.039003s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.039003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.024001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.024001s ]
+
+[ 2016-11-13T22:18:14+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T22:21:14+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2016-11-13T22:34:55+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014001s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0140s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-13T22:36:30+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0140s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0160s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : AttValue: &quot; or ' expected D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag condition={$vo.default_address} /&gt;&lt;/tpl&gt; D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():                     ^ D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : attributes construct error D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag condition={$vo.default_address} /&gt;&lt;/tpl&gt; D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():                     ^ D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : Couldn't find end of Start Tag tag line 1 D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag condition={$vo.default_address} /&gt;&lt;/tpl&gt; D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():                     ^ D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+ERR: XML标签语法错误 : condition={$vo.default_address}
+
+[ 2016-11-13T22:37:42+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0140s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0160s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant default_address - assumed 'default_address' D:\xampp\htdocs\jd\Application\Runtime\Cache\Home\7c3c4c1344b07949caa5605df84721b8.php 第 91 行.
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\jd\Application\Runtime\Cache\Home\7c3c4c1344b07949caa5605df84721b8.php 第 91 行.
+NOTIC: [8] Use of undefined constant default_address - assumed 'default_address' D:\xampp\htdocs\jd\Application\Runtime\Cache\Home\7c3c4c1344b07949caa5605df84721b8.php 第 91 行.
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\jd\Application\Runtime\Cache\Home\7c3c4c1344b07949caa5605df84721b8.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.065004s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.065004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021001s ]
+
+[ 2016-11-13T22:38:43+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0140s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T22:43:24+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0160s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0160s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-13T22:44:05+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0130s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-11-13T22:51:26+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0100s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T22:52:22+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T22:54:39+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0190s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T22:54:48+08:00 ] ::1 /jd/index.php/Home/User/address.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T23:07:52+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0140s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.145008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.145008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T23:10:56+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0210s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0140s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T23:18:17+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0170s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+
+[ 2016-11-13T23:20:22+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.019001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019001s ]
+
+[ 2016-11-13T23:38:46+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0320s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2016-11-13T23:40:21+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0180s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0210s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-13T23:52:06+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T23:52:33+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0140s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0140s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-13T23:56:42+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0130s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T23:57:12+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0140s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T23:57:40+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0130s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-13T23:59:26+08:00 ] ::1 /jd/index.php/Home/User/buynow.html?jeanName=[%E5%8C%85%E9%82%AE]%E7%88%B1%E7%88%B1%E4%B8%B810.17%E5%86%AC%E8%A3%85%E6%96%B0%E6%AC%BE%E5%9F%BA%E7%A1%80%E7%99%BE%E6%90%AD%E6%8B%BC%E6%8E%A5%E5%8D%B7%E8%BE%B9%E5%B0%8F%E8%84%9A%E5%BC%B9%E5%8A%9B%E7%89%9B%E4%BB%94%E9%93%85%E7%AC%94%E8%A3%A4&fashion_img=/jd/Public/images/14785752859276YdWVzuRGls.jpg&price=%3Ci%3E%EF%BF%A5%3C/i%3E56&fashion_name=%E9%BB%91%E8%89%B2&size=L&number=1&totalStorage=5645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0160s ]
+NOTIC: [2] Missing argument 1 for Think\Model::getField(), called in D:\xampp\htdocs\jd\Application\Home\Model\UserModel.class.php on line 15 and defined D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 924 行.
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 925 行.
+SQL: SHOW COLUMNS FROM `shop_user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined variable: field D:\xampp\htdocs\jd\ThinkPHP\Library\Think\Model.class.php 第 936 行.
+SQL: SELECT * FROM `shop_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_useraddress` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `shop_useraddress` WHERE `user_id` = 9  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+

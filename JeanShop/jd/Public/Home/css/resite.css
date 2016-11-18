@@ -1,0 +1,38 @@
+*{
+	padding:0;
+	margin:0;
+	font-size:14px;
+	font-family: "微软雅黑";
+}
+
+ol ,ul ,li{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+	color:#656565;	
+}
+/*
+input{
+	outline:none;
+	border:none;
+	background:none;
+}*/
+.clearfix:after{
+	content:’’;
+	display:block;
+	clear:both;
+}
+
+.clearfix{
+	zoom:1;	
+	clear:both;
+}
+
+.fl{
+	float:left;
+}
+
+.fr{
+	float:right;
+}

@@ -1,0 +1,37 @@
+<include file="Common/header"/>
+<link rel="stylesheet" href="__CSS__/cart.css">
+<table width="80%" align='center' cellpadding=10 cellspacing=0 border=1 text-align="center">
+	<tr>
+		<th><input class="allCheck" type="checkbox">全选</th>
+		<th>商品信息</th>
+		<th>单价</th>
+		<th>数量</th>
+		<th>金额</th>
+		<th>操作</th>
+		<th style="display:none;">ID</th>
+	</tr>
+	<volist name="productInCart" id="vo">
+		<tr class="product">
+			<td><input class="detail" type="checkbox"></td>
+			<td>{$vo.product_name}</td>
+			<td>￥{$vo.product_price|number_format=2}</td>
+			<td><input type="number" min=1 max=100000000 step=1 value="{$vo.cart_product_number}"></td>
+			<td class="cost" style="color:red;border-color:black;">￥<script>document.write(({$vo.product_price}*{$vo.cart_product_number}).toFixed(2))</script></td>
+			<td><button onclick="deleteCart(this)">删除</button></td>
+			<td style="display:none;">{$vo.cart_product_id}</td>
+		</tr>
+	</volist>
+</table>
+<ul id="account">
+	<li><input class="allCheck" type="checkbox">全选</li>
+	<li onclick="deleteCheckedProduct();">删除</li>
+	<li><button onclick="closeAnAccount()">结算</button></li>
+	<li id="totalCost" style="color:red;border-color:black;">0.00</li>
+	<li>合计（不含运费）：</li>
+	<li>已选商品<b id="selectedCommodity" style="color:red;">0</b>件</li>
+</ul>
+<div style="clear:both;"></div>
+<script  type="text/javascript" src="__JS__/jquery-1.4.3.js"></script>
+<script  type="text/javascript" src="__JS__/common.js"></script>
+<script  type="text/javascript" src="__JS__/cart.js"></script>
+<include file="Common/footer"/>

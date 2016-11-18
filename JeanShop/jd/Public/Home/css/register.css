@@ -1,0 +1,30 @@
+form{
+	width: 50%;
+	margin:50px 50px;
+	font-size: 18px;
+}
+input[type="text"],input[type="password"],input[type="email"],input[type="tel"]{
+	border: 1px solid black;
+	width: 340px;
+}
+input[type="submit"]{
+	margin-left: 180px;
+}
+input#authCode{
+	width: 100px;
+}
+img{
+	width: 150px;
+	height: 50px;
+}
+img.show{
+	width: auto;
+	height: auto;
+}
+.ig.fr{
+	/*margin-top: -200px;*/
+}
+.ig.fr img{
+	width: auto;
+	height: auto;
+}

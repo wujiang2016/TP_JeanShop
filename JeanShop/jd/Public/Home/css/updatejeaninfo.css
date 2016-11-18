@@ -1,0 +1,25 @@
+.container{
+	width: 80%;
+	margin: 0 auto;
+}
+.fashion{
+	border: 1px solid #ccc;
+	margin-top: 10px;
+	padding: 5px;
+}
+/*.fashion:nth-child(51){
+	display: none;
+}
+.fashion:nth-child(53){
+	display: none;
+}
+.fashion:nth-child(55){
+	display: none;
+}
+.fashion:nth-child(57){
+	display: none;
+}
+.fashion:nth-child(59){
+	display: none;
+}*/
+

@@ -1,0 +1,84 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>注册页面</title>
+	<link rel="stylesheet" href="/jd/Public/Home/css/resite.css">
+	<link rel="stylesheet" href="/jd/Public/Home/css/login.css">
+<link rel="stylesheet" href="/jd/Public/Home/css/register.css">
+</head>
+<body>
+	<div class="header">
+		<div class="commonWidth">
+			<a href=""><img src="/jd/Public/images/logo/logo.jpg" alt=""></a>
+		</div>
+	</div>
+	<div class="content">
+		<div class="commonWidth">
+			<div class="new_user">
+				<div class="new_userLeft">
+					<h3>新用户注册</h3>
+					<span>注册拾惠网，赢积分换好礼！</span>
+				</div>
+				<div class="new_userRight">
+					<span>已有账号，<a href="<?php echo U('User/login');?>">立即登录</a></span>
+				</div>
+			</div>
+			<form action="" method="post" class="register" onsubmit="return registerCheck();">
+				<label for="user1">新用户名：</label>
+				<input type="text" id="user1" name="username" required pattern="[\w\u4e00-\u9fa5]{1,30}" placeholder="请输入不大于30位字母数字下划线汉字组成的用户名">
+				<span style="color:red;font-size:14px;margin-left:10px;"><?php echo ($error); ?></span>
+				<br><br>
+
+				<label for="password0">设置密码：</label>
+				<input type="password" id="password0" name="password" required>
+				<span style="color:red;font-size:14px;margin-left:10px;"></span>
+				<br><br>
+				<label for="password1">确认密码：</label>
+				<input type="password" id="password1" name="password1" required>
+				<span style="color:red;font-size:14px;margin-left:10px;"></span>
+				<br><br>
+				
+				<label for="email">登录邮箱：</label>
+				<input type="email" id="email" name="email" required>
+				<span style="color:red;font-size:14px;margin-left:10px;"></span>
+				<br><br>
+				
+				<label for="mobile">手机号码：</label>
+				<input type="tel" id="mobile" name="mobile" required>
+				<span style="color:red;font-size:14px;margin-left:10px;"></span>
+				<br><br>
+
+				<label for="authCode">验证码：</label>
+				<input type="text" id="authCode" name="authCode" required>
+				<img src="verifyCode" alt="" onclick="this.src=this.src+'?'">
+				<span style="color:red;font-size:14px;margin-left:10px;"></span>
+				<br><br>
+
+				<input type="checkbox" name="agree" id="agree">
+				<label for="agree"><a href="">已看过并同意协议</a></label>
+				<span class="reminder" style="color:red;"></span>
+				<br><br>
+
+				<input type="submit" value="注册"><br>
+			</form>
+			
+			<div class="ig fr">
+				<img src="/jd/Public/images/image.png" alt="">
+				<div class="twoLine">
+				</div>
+				<span>无需注册，快速登录</span>
+				<div class="loginQQ">
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+		<div class="commonWidth">
+			拾惠网 粤ICP备16078785号-1 Copyright © 2015 - 2018 User.shihuizk.com All Rights Reserved
+		</div>
+	</div>
+	<script src='/jd/Public/Home/js/jquery-2.1.3.js'></script>
+	<script src='/jd/Public/Home/js/register.js'></script>
+</body>
+</html>
